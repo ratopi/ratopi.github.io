@@ -10,6 +10,8 @@
     background-color: #906;
     border-radius: 2px;
     padding: 0.3em;
+    margin-left: -0.3em;
+    margin-right: -0.3em;
 }
 
 .page-header p.lead {
