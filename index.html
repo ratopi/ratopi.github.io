@@ -4,3 +4,12 @@ layout: default
 abstract: And now for something completely different.
 ---
 This is only a test. A test for testing things.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
