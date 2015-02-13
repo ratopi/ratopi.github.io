@@ -8,8 +8,7 @@ This is only a test. A test for testing things.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">"{{ post.title }}"</a>: {{post.abstract}}
     </li>
   {% endfor %}
 </ul>
-
