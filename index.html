@@ -1,24 +1,24 @@
 ---
 title: My Blog
-layout: default
+layout: blog_home
 abstract: And now for something completely different.
 ---
 This is only a test. A test for testing things.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">"{{ post.title }}"</a>: {{post.abstract}}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+<div class="post-preview">
+	<a href="{{ post.url }}">
+		<h2 class="post-title">
+			{{ post.title }}
+		</h2>
 
+		<h3 class="post-subtitle">
+			{{post.abstract}}
+		</h3>
+	</a>
+
+	<!-- TODO -->
+	<p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+</div>
 <hr>
-
-<ul>
-  {% for post in site.kram %}
-    <li>
-      <a href="{{ post.url }}">"{{ post.title }}"</a>: {{post.abstract}}
-    </li>
-  {% endfor %}
-</ul>
+{% endfor %}
