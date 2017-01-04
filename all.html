@@ -4,7 +4,6 @@ layout: blog_home
 abstract: And now for something completely different.
 ---
 {% for post in site.posts %}
-{% if post.draft != true %}
 <div class="post-preview">
 	<a href="{{ post.url }}">
 		<h2 class="post-title">
@@ -20,5 +19,4 @@ abstract: And now for something completely different.
 	<p class="post-meta">Posted by {{ post.author }} on {{ post.date | date_to_long_string }}</p>
 </div>
 <hr>
-{% endif %}
 {% endfor %}
