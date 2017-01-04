@@ -1,4 +1,5 @@
 title: ratopi's Blog
 description: Thoughts to make and do
 owner: Ralf Th. Pietsch
-github_url: https://github.com/ratopi/
+url_github: https://github.com/ratopi/
+permalink: /:year/:title.html
