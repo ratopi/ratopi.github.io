@@ -2,7 +2,8 @@
 
 <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('/img/photo-1482263231623-6121096b0d3f.jpeg')">
+    <!--header class="intro-header" style="background-image: url('/img/post/{{% if page.style %}}{{ page.style }}{{% else %}}{{ 'default' }}{{% endif %}}.jpeg')"-->
+    <header class="intro-header" style="background-image: url('/img/post/{{ page.style }}.jpeg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
