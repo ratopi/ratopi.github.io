@@ -1,4 +1,3 @@
-ratopi.github.io
-================
+# ratopi.github.io
 
-Ma Blog (currently only a test)
+My Blog (currently only a test)

@@ -9,7 +9,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>{{site.title}}{% if page.title %} - {{page.title}}{% endif %}</title>
+	<title>{{site.title}}{% if page.title and page.title != site.title %} - {{page.title}}{% endif %}</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +52,10 @@
 					<a href="/">Home</a>
 				</li>
 				<li>
-					<a href="/about.html">About</a>
+					<a href="/about.html" title="Like to know more about me?">About Me</a>
+				</li>
+				<li>
+					<a href="/projects.html" title="Some of my projects">My Projects</a>
 				</li>
 			</ul>
 		</div>

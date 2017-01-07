@@ -1,13 +1,15 @@
 ---
-title: My Blog
-layout: blog_home
-abstract: And now for something completely different.
+layout: page
+title: ratopi's Blog (Drafts)
+description: More thoughts to make and do
+image: blog
 ---
 {% for post in site.posts %}
 <div class="post-preview">
 	<a href="{{ post.url }}">
 		<h2 class="post-title">
 			{{ post.title }}
+			{% if post.draft == true %}<small><i>*** Draft ***</i></small>{% endif %}
 		</h2>
 
 		<h3 class="post-subtitle">
@@ -20,3 +22,11 @@ abstract: And now for something completely different.
 </div>
 <hr>
 {% endfor %}
+
+<hr>
+<ul>
+{% for post in site.pages %}
+<li>{{post.title}} / {{post.url}}</li>
+{% endfor %}
+</ul>
+<hr>
