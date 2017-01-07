@@ -11,7 +11,7 @@ image: post/bicycle
 
 Some of my projects hosted on github:
 
-* [Netzfrequenz](/netzfrequenz) - An Arduino sketch for detting the mains frequency
+* [Netzfrequenz](/netzfrequenz) - An Arduino sketch for detecting the current frequency of the mains by using a simple antenna.
 
 Art
 
