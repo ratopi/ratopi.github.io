@@ -1,5 +1,6 @@
 ---
 title: About me ...
+description: Software Engineer & Information Designer
 layout: page
 image: about
 ---
