@@ -9,10 +9,21 @@ image: post/bicycle
 <small>Steve Jobs</small>
 </blockquote>
 
-Some of my projects hosted on github:
+Some of my projects.
+
+Open Source:
 
 * [Netzfrequenz](/netzfrequenz) - An Arduino sketch for detecting the current frequency of the mains by using a simple antenna.
 
 Art
 
-* [So viele Farben Schwarz](so-viele-farben-schwarz.html) - A sound installation for the “Neunstundengeburtstagshappening” at Zeitraumexit
+* [So viele Farben Schwarz](projects/so-viele-farben-schwarz.html) - A sound installation for the "Neunstundengeburtstagshappening" at Zeitraumexit
+
+Layout & Design
+
+* [Ausstellungsradar](projects/ausstellungsradar.html) - Logo and landing page for the "Ausstellungsradar"-App.
+
+Others
+
+* [Gate Information System](projects/gate-information-system.html) -
+  Passenger information displays at the gates running at different german airports.
