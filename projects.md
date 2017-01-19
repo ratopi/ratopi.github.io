@@ -14,6 +14,7 @@ Some of my projects.
 Open Source:
 
 * [Netzfrequenz](/netzfrequenz) - An Arduino sketch for detecting the current frequency of the mains by using a simple antenna.
+* [LernQuiz](/projects/lernquiz.html) - A browser app for learning flags of states, etc.
 
 Art
 
