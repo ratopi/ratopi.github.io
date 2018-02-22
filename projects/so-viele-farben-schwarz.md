@@ -18,5 +18,6 @@ Technology stack was
 * A lot of vintage stuff ...
 
 
-See a demonstration video at
-[YouTube](https://www.youtube.com/watch?v=P-XFIT2RwAo).
+See a demonstration video at [YouTube](https://www.youtube.com/watch?v=P-XFIT2RwAo).
+
+See more documentation at [telesma](http://telesma.com/).
