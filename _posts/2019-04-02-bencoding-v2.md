@@ -17,7 +17,7 @@ To include bencoding to your project just add the dependency to your rebar.confi
 	{deps, [bencoding]}.
 
 
-Let me here, if it is useful for you project!
+Let me hear from you, if it is useful for you project!
 
 More information at:
 * <a href="https://hex.pm/packages/bencoding">Hex.pm</a>
