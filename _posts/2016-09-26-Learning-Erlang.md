@@ -4,6 +4,7 @@ layout: blog_post
 abstract: Start learning Erlang
 author: Ralf Th. Pietsch
 date: 2016-09-26
+draft: true
 ---
 Just started to learn Erlang.
 Discovered the wonderfull <a href="https://learnyousomeerlang.com/">Learn you some Erlang</a>.
