@@ -19,3 +19,6 @@ Communication can work, but it doesn't have to - not only for people, but also f
 Too many physical influences can interfere with the transmission of information in the real world.
 
 Thank you Joe for all you interesting questions and for the solutions which brings us one small step further.
+
+PS: If you don't know what I'm talking about, perhaps you should give this video a chance:
+<a href="https://www.youtube.com/watch?v=lKXe3HUG2l4">"The Mess We're In"</a>.
