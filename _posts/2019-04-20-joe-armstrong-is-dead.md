@@ -13,5 +13,9 @@ But also because Joe was always thinking about how to making computers and progr
 More efficient in a economical and ecological way.
 
 Joe Armstrong was physicist and perhaps that's why I'm always fascinated by his thoughts.
+Computers are physical machines and therefore obey natural laws.
+Absolute time, for example, as assumed by many computer scientists, does not exist.
+Communication can work, but it doesn't have to - not only for people, but also for machines.
+Too many physical influences can interfere with the transmission of information in the real world.
 
 Thank you Joe for all you interesting questions and for the solutions which brings us one small step further.
