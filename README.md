@@ -1,3 +1,3 @@
 # ratopi.github.io
 
-My Blog (currently only a test)
+My personal tech blog and more at http://ratopi.github.io/.
