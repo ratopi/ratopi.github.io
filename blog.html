@@ -11,20 +11,17 @@ image: blog
 
 {% for post in site.posts %}
 {% if post.draft != true %}
+<!-- Post preview-->
 <div class="post-preview">
 	<a href="{{ post.url }}">
-		<h2 class="post-title">
-			{{ post.title }}
-		</h2>
-
-		<h3 class="post-subtitle">
-			{{ post.abstract }}
-		</h3>
+		<h2 class="post-title">{{ post.title }}</h2>
+		<h3 class="post-subtitle">{{ post.abstract }}</h3>
 	</a>
 
 	<!-- TODO -->
 	<p class="post-meta">Posted by {{ post.author }} on {{ post.date | date_to_long_string }}</p>
 </div>
-<hr>
+<!-- Divider-->
+<hr class="my-4" />
 {% endif %}
 {% endfor %}
