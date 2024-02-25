@@ -1,5 +1,6 @@
 ---
 title: My Projects
+description: A small selection of my projects. <i>More on my GitHub page.</i> 
 layout: page
 date: 2024-02-25
 image: post/bicycle

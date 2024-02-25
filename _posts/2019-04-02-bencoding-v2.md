@@ -4,6 +4,7 @@ layout: blog_post
 abstract: Version 0.2 of my bencoding library in pure Erlang is now on hex.pm
 author: Ralf Th. Pietsch
 date: 2019-04-02
+image: electronics
 ---
 
 Just released Version 0.2 of my Bencoding library in pure Erlang.

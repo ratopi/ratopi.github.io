@@ -3,6 +3,7 @@ title: Hello World in RISC-V-Assembly
 layout: blog_post
 author: Ralf Th. Pietsch
 date: 2023-08-22
+image: typewriter
 ---
 Just coded a small "Hello, World!" example in RISC-V assembly.
 

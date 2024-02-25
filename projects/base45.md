@@ -1,5 +1,6 @@
 ---
-title: Base45 in pure Erlang
+title: Base45
+description: ... in pure Erlang
 layout: page
 image: post/layers
 ---

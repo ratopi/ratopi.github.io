@@ -1,5 +1,6 @@
 ---
-title: Bencoding in pure Erlang
+title: Bencoding
+description: ... in pure Erlang
 layout: page
 image: post/pepper
 ---
