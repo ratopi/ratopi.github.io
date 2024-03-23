@@ -15,10 +15,14 @@ In my opinion yes, because Erlang process are encapsulated elements that change 
 state due to interchange messages.
 
 Some may argue, but OOP has classes.
-In my opinion classes are representatied by functions starting an Erlang process.
+In my opinion, classes are defined by functions that start an Erlang process.
 
 You may compare it to Java or C++, which completely ignore the main fact of encapsulating the 
 state of an object, by introducing protected and public members.
+Java, C++, etc are ignoring the fact of message interchanging completely.
+And due to Alan Kay, encapsulating data and message interchanging is the more important idea
+behind the term OOP.
+_[Alan Kay about the term OOP](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)_
 
 What about inheritance?
 I think inheritance is one of the most overrated ideas in OOP.
