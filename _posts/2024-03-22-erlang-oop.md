@@ -30,7 +30,14 @@ Every beginner learns that red trucks inherit their characteristics from cars.
 This example is completely irrelevant in practice.
 Inheritance is a construct that is extremely rarely needed in daily work.
 
-Much more important is the exchange of messages between objects.
+Inheritance can usually be replaced by delegation.
+Delegation also avoids problems with multiple inheritance.
+That's what I call molecule model on contrast to the onion model.
+Molecules are far more variable than onions.
+By changing one atom in a molecule, you perhaps get a completely other behaviour.
+Try to change one of the inner layer of an onion, without destabilize its structure.
+
+So, much more important is the exchange of messages between objects.
 (And that really doesn't make Java or C++ or C# any better than Smalltalk.)
 
 # Is Erlang a functional language?
