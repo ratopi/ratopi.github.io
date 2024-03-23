@@ -60,3 +60,13 @@ In a real life situation, with running software on real hardware, everything can
 happen.
 It's stupid to say "this will never happen", but it is not, if your code just stops working
 and a supervisor restarts the code, so we are again in defined environment.
+                
+# Conclusion
+
+OOP, functional, declarative, "let it crash" ... at the end, these are all only words.
+Words are useful, because without having a word for something we can not talk about it.
+But these words are less useful when it comes to what is programming all about.
+At the end programming is to express yourself in the most precise way possible.
+That's why mathematics has developed a formula language to be precise.
+
+So, be precise and express yourself ... and look out for the language, which allows exactly that.
