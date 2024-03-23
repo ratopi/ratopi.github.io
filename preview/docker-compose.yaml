@@ -1,0 +1,24 @@
+# This is my stupid way to render with jekyll on my local machine :-)
+
+services:
+
+  serve:
+    build:
+      context: .
+    volumes:
+      - ../:/DATA/
+    working_dir: /DATA/
+    command: sleep 3600
+    user: "500"
+# do a
+#   $ docker exec -it preview-serve-1 /bin/bash
+# and a
+#   $ jekyll build --watch
+
+  web:
+    image: "nginx:latest"
+    restart: "always"
+    ports:
+      - "4000:80"
+    volumes:
+      - "../_site/:/usr/share/nginx/html/:ro"
