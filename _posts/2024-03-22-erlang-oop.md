@@ -12,7 +12,7 @@ Some thoughts about Erlang
 # Is Erlang an OOP language?
 
 In my opinion yes, because Erlang process are encapsulated elements that change their 
-state due to interchange messages.
+state due to interchanging messages.
 
 Some may argue, but OOP has classes.
 In my opinion, classes are defined by functions that start an Erlang process.
@@ -42,7 +42,7 @@ So, much more important is the exchange of messages between objects.
 
 # Is Erlang a functional language?
 
-Yes, because functions can be handle as any other.
+Yes, because functions can be handled as any other type.
 
 Tail recursion is another thing.
 (Just compare a stack trace of Java with one of Erlang ... and you will understand.)
@@ -70,7 +70,7 @@ Because your code represents what you expect.
 In a real life situation, with running software on real hardware, everything can 
 happen.
 It's stupid to say "this will never happen", but it is not, if your code just stops working
-and a supervisor restarts the code, so we are again in defined environment.
+and a supervisor restarts the code, so we are again in a defined state.
                 
 # Conclusion
 
