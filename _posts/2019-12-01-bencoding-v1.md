@@ -1,9 +1,10 @@
 ---
-title: "Release: Bencoding 1.0"
+title: "Bencoding 1.0"
 layout: blog_post
 abstract: Version 1.0 of my bencoding library in pure Erlang is now on hex.pm
 author: Ralf Th. Pietsch
 date: 2019-12-01
+category: project
 ---
 
 Just released Version 1.0 of my Bencoding library in pure Erlang.

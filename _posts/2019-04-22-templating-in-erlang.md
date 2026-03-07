@@ -4,6 +4,7 @@ layout: blog_post
 abstract: Erlang is well suited for writing template engines, due to its pattern matching capabilities
 author: Ralf Th. Pietsch
 date: 2019-04-22
+category: blog
 ---
 
 Erlang is not only perfect for large supervised applications that run distributed with extreme availability times.

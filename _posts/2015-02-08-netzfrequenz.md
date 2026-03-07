@@ -1,9 +1,10 @@
 ---
-title: "Project: Netzfrequenz – measuring mains frequency with an Arduino"
+title: "Netzfrequenz – measuring mains frequency with an Arduino"
 layout: blog_post
 abstract: An Arduino sketch for determining the current mains frequency using nothing more than a piece of wire.
 author: Ralf Th. Pietsch
 date: 2015-02-08
+category: project
 ---
 
 Published [Netzfrequenz](/netzfrequenz) – a small Arduino sketch that measures the current mains frequency using nothing more than a short piece of wire connected to an analog port.

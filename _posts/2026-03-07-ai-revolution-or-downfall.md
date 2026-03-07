@@ -4,6 +4,7 @@ layout: blog_post
 abstract: How Claude Opus 4.6 is changing software development – and what it means for society when machines take over the work.
 author: Ralf Th. Pietsch
 date: 2026-03-07
+category: blog
 ---
 
 For years we have been hearing promises about how AI will revolutionize software development.

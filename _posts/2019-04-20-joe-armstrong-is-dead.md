@@ -4,6 +4,7 @@ layout: blog_post
 abstract: Joe Armstrong – one of the inventors of Erlang – died today.
 author: Ralf Th. Pietsch
 date: 2019-04-20
+category: blog
 ---
 
 Joe Armstrong died today.

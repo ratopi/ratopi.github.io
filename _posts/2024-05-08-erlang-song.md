@@ -4,6 +4,7 @@ layout: blog_post
 abstract: concurrency, distribution, fault tolerance
 author: Ralf Th. Pietsch
 date: 2024-05-08
+category: blog
 ---
 
 Just discovered an Erlang song on soundcloud named "Scale of Resilience".

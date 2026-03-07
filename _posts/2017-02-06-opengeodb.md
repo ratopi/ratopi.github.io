@@ -1,9 +1,10 @@
 ---
-title: "Project: OpenGeoDB – a mirror of German-speaking geographical data"
+title: "OpenGeoDB – a mirror of German-speaking geographical data"
 layout: blog_post
 abstract: A git mirror of the OpenGeoDB data, available as CSV and JSON via GitHub Pages.
 author: Ralf Th. Pietsch
 date: 2017-02-06
+category: project
 ---
 
 Published [OpenGeoDB](https://github.com/ratopi/opengeodb) – a git mirror of the official data from [opengeodb.org](http://www.opengeodb.org/).

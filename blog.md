@@ -10,7 +10,7 @@ permalink: /blog.html
 > — *Albert Einstein*
 
 {% for post in site.posts %}
-{% if post.draft != true %}
+{% if post.draft != true and post.category == "blog" %}
 ### [{{ post.title }}]({{ post.url }})
 
 {% if post.abstract %}{{ post.abstract }}{% endif %}

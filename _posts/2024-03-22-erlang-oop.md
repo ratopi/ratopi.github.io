@@ -4,6 +4,7 @@ layout: blog_post
 abstract: Some thoughts about what Erlang is ... and what it even means.
 author: Ralf Th. Pietsch
 date: 2024-03-22
+category: blog
 ---
 
 *Updated March 7, 2026 – substantially revised and expanded.*

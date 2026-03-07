@@ -1,9 +1,10 @@
 ---
-title: "Project: Ladesäulen – German charging station register as JSON"
+title: "Ladesäulen – German charging station register as JSON"
 layout: blog_post
 abstract: A tool that converts the official German charging station register into usable JSON.
 author: Ralf Th. Pietsch
 date: 2024-03-30
+category: project
 ---
 
 Published [Ladesäulen](/projects/ladesaeulen) – an Erlang tool that downloads the official charging station register (*Ladesäulenregister*) from the Bundesnetzagentur and converts it into a clean JSON format.
