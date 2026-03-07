@@ -33,7 +33,7 @@ Some of my projects.
 ### Fun & Learning
 
 - [Eliza.elm](/projects/eliza-elm) – An ELIZA-inspired chatbot in Elm, running serverless in the browser
-- [LernQuiz](/projects/lernquiz) – A browser app for learning flags of countries etc.
+- [LernQuiz](/projects/lernquiz) – A multiple-choice quiz app about geography, written in Elm
 - [WordClock](/wordclock-demo/src/web/) – A WordClock in JavaScript ... just for fun
 
 ### Art & Design
