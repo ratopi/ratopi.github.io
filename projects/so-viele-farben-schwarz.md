@@ -7,7 +7,7 @@ layout: page
 ["Neunstundengeburtstagshappening"](http://www.zeitraumexit.de/veranstaltung/happy-birthday-fluxus)
 at [Zeitraumexit](http://www.zeitraumexit.de/) together with Frank Rossi.
 
-Frank developed a really amazing idea for a sound installation, and asked me for supporting him at the IT-side
+Frank developed a really amazing idea for a sound installation, and asked me to support him on the IT side
 of the project.
 
 Technology stack was:

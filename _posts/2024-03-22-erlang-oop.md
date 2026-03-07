@@ -10,16 +10,16 @@ Some thoughts about Erlang
 
 ## Is Erlang an OOP language?
 
-In my opinion yes, because Erlang process are encapsulated elements that change their
-state due to interchanging messages.
+In my opinion yes, because Erlang processes are encapsulated elements that change their
+state by exchanging messages.
 
 Some may argue, but OOP has classes.
 In my opinion, classes are defined by functions that start an Erlang process.
 
 You may compare it to Java or C++, which completely ignore the main fact of encapsulating the
 state of an object, by introducing protected and public members.
-Java, C++, etc are ignoring the fact of message interchanging completely.
-And due to Alan Kay, encapsulating data and message interchanging is the more important idea
+Java, C++, etc are ignoring the concept of message passing completely.
+And according to Alan Kay, encapsulating data and message passing is the more important idea
 behind the term OOP.
 _[Alan Kay about the term OOP](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)_
 
@@ -33,8 +33,8 @@ Inheritance can usually be replaced by delegation.
 Delegation also avoids problems with multiple inheritance.
 That's what I call molecule model in contrast to the onion model.
 Molecules are far more variable than onions.
-By changing one atom in a molecule, you perhaps get a completely other behaviour.
-Try to change one of the inner layer of an onion, without destabilize its structure.
+By changing one atom in a molecule, you perhaps get completely different behaviour.
+Try to change one of the inner layers of an onion, without destabilizing its structure.
 
 So, much more important is the exchange of messages between objects.
 (And that really doesn't make Java or C++ or C# any better than Smalltalk.)
@@ -74,9 +74,9 @@ and a supervisor restarts the code, so we are again in a defined state.
 ## Conclusion
 
 OOP, functional, declarative, "let it crash" ... at the end, these are all only words.
-Words are useful, because without having a word for something we can not talk about it.
+Words are useful, because without having a word for something we cannot talk about it.
 But these words are less useful when it comes to what is programming all about.
-At the end programming is to express yourself in the most precise way possible.
+In the end, programming is about expressing yourself in the most precise way possible.
 That's why mathematics has developed a formula language to be precise.
 
 So, be precise and express yourself ... and look out for the language, which allows exactly that.

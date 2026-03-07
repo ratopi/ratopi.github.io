@@ -7,7 +7,7 @@ date: 2019-12-01
 ---
 
 Just released Version 1.0 of my Bencoding library in pure Erlang.
-Bencoding is now ready for the use in productive systems.
+Bencoding is now ready for use in production systems.
 
 Bencoding helps you to read and write files encoded in bittorrent encoding format.
 

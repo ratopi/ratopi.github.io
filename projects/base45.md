@@ -4,7 +4,7 @@ description: "... in pure Erlang"
 layout: page
 ---
 
-During the corona pandemic a new encoding entered the light of the world.
+During the corona pandemic a new encoding saw the light of day.
 Health and vaccination certificates in the EU are encoded in *base45*, optimized for text representation in QR-codes.
 
 I couldn't resist and wrote an encoder in pure Erlang.

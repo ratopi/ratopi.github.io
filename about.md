@@ -11,7 +11,7 @@ layout: page
 ## Passion
 
 Passionate software developer with more than 20 years of experience in professional software development.
-Being involved with programming and computers for over 40 years.
+Involved with programming and computers for over 40 years.
 
 ## Systems
 

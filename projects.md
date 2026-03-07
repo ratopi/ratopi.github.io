@@ -19,7 +19,7 @@ Some of my projects.
 - [Playlist](https://github.com/ratopi/playlist) – A parser lib for extended m3u files
 - [Base45](/projects/base45) – An implementation of the base45 encoding in pure Erlang.
 - [Bencoding](/projects/bencoding) – An implementation of the bittorrent data format in pure Erlang.
-- [Ahoy DTU HowTo](https://github.com/ratopi/ahoydtu-howto) – some more informations about wiring up an AhoyDTU
+- [Ahoy DTU HowTo](https://github.com/ratopi/ahoydtu-howto) – some more information about wiring up an AhoyDTU
 - [OpenGeoDB](https://github.com/ratopi/opengeodb) – Old OpenGeoDB data mirror
 - [Netzfrequenz](/netzfrequenz) – An Arduino sketch for determining the current mains frequency using a simple antenna.
 - [LernQuiz](/projects/lernquiz) – A browser app for learning the flags of countries etc.
