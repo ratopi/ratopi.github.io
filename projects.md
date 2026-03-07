@@ -14,7 +14,7 @@ Some of my projects.
 
 - [Base45](/projects/base45) – A Base45 encoder/decoder in pure Erlang (RFC 9285)
 - [Bencoding](/projects/bencoding) – An encoder/decoder for the BitTorrent data format in pure Erlang
-- [Matcher](https://github.com/ratopi/matcher) – An expression language in Erlang terms for finding specific documents
+- [Matcher](https://github.com/ratopi/matcher) – A tuple-based expression evaluator for comparisons, boolean logic, and substring matching
 - [Playlist](https://github.com/ratopi/playlist) – A parser lib for extended m3u files
 - YaPE – Yet another Process Engine, runs BPMN processes (work in progress)
 

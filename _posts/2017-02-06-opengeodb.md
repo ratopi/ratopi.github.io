@@ -1,5 +1,5 @@
 ---
-title: "OpenGeoDB – a mirror of German-speaking geographical data"
+title: "Project: OpenGeoDB – a mirror of German-speaking geographical data"
 layout: blog_post
 abstract: A git mirror of the OpenGeoDB data, available as CSV and JSON via GitHub Pages.
 author: Ralf Th. Pietsch

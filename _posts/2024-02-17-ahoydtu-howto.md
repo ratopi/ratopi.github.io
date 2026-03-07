@@ -1,5 +1,5 @@
 ---
-title: Howto AhoyDTU with an ESP8266
+title: "Project: AhoyDTU HowTo for ESP8266"
 layout: blog_post
 abstract: Wiring and more, to get AhoyDTU running on an ESP8266
 author: Ralf Th. Pietsch

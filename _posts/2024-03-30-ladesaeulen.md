@@ -1,5 +1,5 @@
 ---
-title: "Ladesäulen – German charging station register as JSON"
+title: "Project: Ladesäulen – German charging station register as JSON"
 layout: blog_post
 abstract: A tool that converts the official German charging station register into usable JSON.
 author: Ralf Th. Pietsch

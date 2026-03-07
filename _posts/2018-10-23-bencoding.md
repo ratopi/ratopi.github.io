@@ -1,5 +1,5 @@
 ---
-title: "Bencoding – BitTorrent's data format in Erlang"
+title: "Project: Bencoding – BitTorrent's data format in Erlang"
 layout: blog_post
 abstract: First release of a Bencoding encoder/decoder in pure Erlang.
 author: Ralf Th. Pietsch

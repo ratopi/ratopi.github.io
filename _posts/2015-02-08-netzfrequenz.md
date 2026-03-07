@@ -1,5 +1,5 @@
 ---
-title: "Netzfrequenz – measuring mains frequency with an Arduino"
+title: "Project: Netzfrequenz – measuring mains frequency with an Arduino"
 layout: blog_post
 abstract: An Arduino sketch for determining the current mains frequency using nothing more than a piece of wire.
 author: Ralf Th. Pietsch

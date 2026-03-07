@@ -1,5 +1,5 @@
 ---
-title: "WordClock – telling time in words"
+title: "Project: WordClock – telling time in words"
 layout: blog_post
 abstract: A WordClock implemented in JavaScript, just for fun.
 author: Ralf Th. Pietsch

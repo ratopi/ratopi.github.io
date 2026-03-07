@@ -1,5 +1,5 @@
 ---
-title: TileCache for OSM tiles
+title: "Project: TileCache for OSM tiles"
 layout: blog_post
 abstract: A caching server for OpenStreetMap tiles, reducing traffic and saving resources on the real tile server.
 author: Ralf Th. Pietsch
