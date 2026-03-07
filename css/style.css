@@ -426,6 +426,41 @@ body {
   margin-bottom: 0.5rem;
 }
 
+/* --- Selected Writings --- */
+.selected-writings {
+  padding: 3rem 1.5rem 2rem;
+}
+
+.selected-writings h2 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 1.2rem;
+}
+
+.selected-writings ul {
+  list-style: none;
+  padding: 0;
+}
+
+.selected-writings li {
+  margin-bottom: 0.8rem;
+}
+
+.selected-writings a {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.selected-writings a:hover {
+  color: var(--color-accent);
+}
+
 /* --- Responsive --- */
 @media (max-width: 600px) {
   body { font-size: 16px; }

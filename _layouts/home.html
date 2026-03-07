@@ -6,4 +6,14 @@ layout: default
   <p class="subtitle">{{ page.description }}</p>
   {{ content }}
 </section>
+{% if page.selected %}
+<div class="container selected-writings">
+  <h2>Selected Writings</h2>
+  <ul>
+    {% for item in page.selected %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 
