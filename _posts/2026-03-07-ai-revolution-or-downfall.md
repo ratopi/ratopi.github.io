@@ -24,9 +24,11 @@ You can refactor with a safety net that understands your intentions.
 You can dive into unfamiliar territories – a new language, a new framework, a new paradigm – without the usual fear of getting lost.
 
 The AI doesn't replace thinking, it doesn't replace knowledge or experience – you still need to know what to ask for, and you still need to judge the answers.
-After all, these models are stochastic algorithms, not wise oracles.
+After all, these models are stochastic algorithms.
 They predict the most probable next token – be it a word, a line of code, or a musical note.
 The results can feel like magic, and sometimes they are genuinely breathtaking.
+In truth, they are more like the Oracle of Delphi than like wise scientists – priestesses in a trance, uttering words that sound profound but are driven by fumes, not by understanding.
+And just like those ancient oracles, AI hallucinates with great confidence.
 Probability is not wisdom, though.
 But it removes the friction – the syntax lookups, the boilerplate, the exact formulation – that used to stand between you and the actual problem.
 
