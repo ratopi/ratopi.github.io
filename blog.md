@@ -15,7 +15,7 @@ permalink: /blog.html
 
 {% if post.abstract %}{{ post.abstract }}{% endif %}
 
-*{{ post.date | date: "%B %-d, %Y" }} · {{ post.author }}*
+*{{ post.date | date: "%B %-d, %Y" }}*
 
 ---
 {% endif %}

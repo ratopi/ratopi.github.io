@@ -16,4 +16,14 @@ layout: default
   </ul>
 </div>
 {% endif %}
+{% if page.selected_projects %}
+<div class="container selected-writings">
+  <h2>Recently Updated Projects</h2>
+  <ul>
+    {% for item in page.selected_projects %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 

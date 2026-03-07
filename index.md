@@ -7,6 +7,15 @@ selected:
     url: /2026/ai-revolution-or-downfall.html
   - title: "Is Erlang an OOP language?"
     url: /2024/erlang-oop.html
+selected_projects:
+  - title: "Eliza.elm – an ELIZA chatbot in Elm"
+    url: /projects/eliza-elm.html
+  - title: "Ladesäulen – German charging station register as JSON"
+    url: /projects/ladesaeulen.html
+  - title: "Base45 – encoding in pure Erlang"
+    url: /projects/base45.html
+  - title: "Bencoding – BitTorrent format in pure Erlang"
+    url: /projects/bencoding.html
 ---
 
 > "The computer is simply an instrument whose music is ideas."
