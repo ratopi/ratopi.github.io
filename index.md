@@ -3,6 +3,8 @@ layout: home
 title: Ralf Th. Pietsch
 description: developing software with passion
 selected:
+  - title: "The Price of Individualism"
+    url: /2026/the-price-of-individualism.html
   - title: "AI Revolution or Downfall?"
     url: /2026/ai-revolution-or-downfall.html
   - title: "Is Erlang an OOP language?"
