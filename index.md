@@ -13,7 +13,7 @@ selected_projects:
   - title: "Eliza.elm – an ELIZA chatbot in Elm"
     url: /projects/eliza-elm.html
   - title: "Ladesäulen – German charging station register as JSON"
-    url: /projects/ladesaeulen.html
+    url: /projects/ladesaeule.html
   - title: "Base45 – encoding in pure Erlang"
     url: /projects/base45.html
   - title: "Bencoding – BitTorrent format in pure Erlang"

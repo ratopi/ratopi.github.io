@@ -12,6 +12,7 @@ comments_url: https://github.com/ratopi/ratopi.github.io/issues
 
 markdown: kramdown
 highlighter: rouge
+future: true
 
 kramdown:
   input: GFM
