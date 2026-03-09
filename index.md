@@ -10,6 +10,8 @@ selected:
   - title: "Is Erlang an OOP language?"
     url: /2024/erlang-oop.html
 selected_projects:
+  - title: "Stromfinder – interactive map of German charging stations"
+    url: /projects/stromfinder.html
   - title: "Eliza.elm – an ELIZA chatbot in Elm"
     url: /projects/eliza-elm.html
   - title: "Ladesäulen – German charging station register as JSON"
