@@ -20,6 +20,7 @@ Some of my projects.
 
 ### Data & Web
 
+- [CipherPost](/projects/cipherpost) – End-to-end encrypted messaging PWA, built with Elm and Erlang/OTP
 - [Ladesäulen](/projects/ladesaeule) – German charging station register as JSON, updated weekly
 - [Tile Cache](https://github.com/ratopi/tile-cache) – A caching server to reduce load on TileServers for OSM tiles
 - [PLZ Suche](https://github.com/ratopi/plz-suche) – Search for zip codes close to a given location in Germany
