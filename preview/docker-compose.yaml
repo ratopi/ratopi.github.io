@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    build:
+      context: ..
+      dockerfile: preview/Dockerfile
+    volumes:
+      - ..:/site
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    command: jekyll serve --host 0.0.0.0 --watch --livereload --force_polling

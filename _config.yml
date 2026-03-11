@@ -1,0 +1,24 @@
+title: Ralf Th. Pietsch
+description: Developing with passion
+author: Ralf Th. Pietsch
+url: https://dev.ratopi.de
+baseurl: ""
+
+permalink: /:year/:title.html
+
+github_username: ratopi
+github_url: https://github.com/ratopi/
+comments_url: https://github.com/ratopi/ratopi.github.io/issues
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - preview/
+  - Gemfile
+  - Gemfile.lock
