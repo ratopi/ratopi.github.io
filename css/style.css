@@ -84,6 +84,20 @@ body {
 
 .nav-links a:hover { color: var(--color-accent); }
 
+.nav-feed {
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav-feed svg {
+  opacity: 0.5;
+  transition: opacity 0.2s, color 0.2s;
+}
+
+.nav-feed:hover svg {
+  opacity: 1;
+}
+
 /* --- Hero (Home page) --- */
 .hero {
   background: var(--color-hero-bg);
