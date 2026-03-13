@@ -35,6 +35,7 @@ Some of my projects.
 
 - [Eliza.elm](/projects/eliza-elm) – An ELIZA-inspired chatbot in Elm, running serverless in the browser
 - [LernQuiz](/projects/lernquiz) – A multiple-choice quiz app about geography, written in Elm
+- [Mengenlehreuhr](/projects/mengenlehreuhr) – The Berlin Set Theory Clock in HTML/SVG/JS, with neon glow effects and PWA support
 - [WordClock](/wordclock-demo/src/web/) – A WordClock in JavaScript ... just for fun
 
 ### Art & Design
