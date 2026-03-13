@@ -10,8 +10,8 @@ selected:
   - title: "Is Erlang an OOP language?"
     url: /2024/erlang-oop.html
 selected_projects:
-  - title: "CipherPost – end-to-end encrypted messaging"
-    url: /projects/cipherpost.html
+  - title: "Mengenlehreuhr – the Berlin Clock in SVG"
+    url: /projects/mengenlehreuhr.html
   - title: "Stromfinder – interactive map of German charging stations"
     url: /projects/stromfinder.html
   - title: "Eliza.elm – an ELIZA chatbot in Elm"
