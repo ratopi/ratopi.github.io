@@ -7,7 +7,7 @@ date: 2017-10-06
 category: project
 ---
 
-Built a small [WordClock](/wordclock-demo/src/web/) in JavaScript – a clock that displays the current time as words on a grid of letters.
+Built a small [WordClock](/wordclock-demo/) in JavaScript – a clock that displays the current time as words on a grid of letters.
 
 Just for fun.
 
