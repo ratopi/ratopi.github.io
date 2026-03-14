@@ -3,6 +3,8 @@ layout: home
 title: Ralf Th. Pietsch
 description: developing software with passion
 selected:
+  - title: "Fahrrad-Wohnanhänger bauen – Was gibt es zu beachten?"
+    url: /2026/fahrrad-anhaenger.html
   - title: "The Price of Individualism"
     url: /2026/the-price-of-individualism.html
   - title: "AI Revolution or Downfall?"
