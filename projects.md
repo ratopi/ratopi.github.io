@@ -22,6 +22,7 @@ Some of my projects.
 
 - [CipherPost](/projects/cipherpost) – End-to-end encrypted messaging PWA, built with Elm and Erlang/OTP
 - [Ladesäulen](/projects/ladesaeule) – German charging station register as JSON, updated weekly
+- [Stromfinder](/projects/stromfinder) – Interactive map of all ~70,000 charging stations in Germany, built with Elm and Leaflet
 - [Tile Cache](https://github.com/ratopi/tile-cache) – A caching server to reduce load on TileServers for OSM tiles
 - [PLZ Suche](https://github.com/ratopi/plz-suche) – Search for zip codes close to a given location in Germany
 - [OpenGeoDB](https://github.com/ratopi/opengeodb) – Old OpenGeoDB data mirror
