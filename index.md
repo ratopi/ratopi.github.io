@@ -3,6 +3,8 @@ layout: home
 title: Ralf Th. Pietsch
 description: developing software with passion
 selected:
+  - title: "The Solar-SUV Contradiction"
+    url: /2026/the-solar-suv-contradiction.html
   - title: "Wind and Solar Top the Charts — Germany's Power Mix in 2025"
     url: /2026/wind-and-solar-top-the-charts.html
   - title: "The Price of Individualism"
