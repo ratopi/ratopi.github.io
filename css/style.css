@@ -341,6 +341,25 @@ body {
   opacity: 0.7;
 }
 
+.post-header .lang-switch {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.post-header .lang-switch a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border: 1px solid var(--color-accent-dim);
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.post-header .lang-switch a:hover {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
 .post-content {
   padding-bottom: 4rem;
 }

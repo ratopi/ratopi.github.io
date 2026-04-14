@@ -6,6 +6,9 @@ author: Ralf Th. Pietsch
 date: 2026-04-14
 category: blog
 tags: [sustainability, energy, mobility, society]
+lang: en
+lang_partner: 2026-04-14-der-solar-suv-widerspruch
+lang_label: "🇩🇪 Deutsch"
 ---
 
 ## Two decisions, two standards
