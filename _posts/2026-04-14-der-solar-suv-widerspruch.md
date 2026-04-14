@@ -8,7 +8,6 @@ category: blog
 tags: [sustainability, energy, mobility, society]
 lang: de
 lang_partner: 2026-04-14-the-solar-suv-contradiction
-lang_label: "🇬🇧 English"
 ---
 
 ## Zwei Entscheidungen, zwei Maßstäbe

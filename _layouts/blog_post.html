@@ -9,7 +9,11 @@ layout: default
     {% if page.lang_partner %}
       {% for p in site.posts %}
         {% if p.path contains page.lang_partner %}
-          <p class="lang-switch"><a href="{{ p.url }}">{{ page.lang_label }}</a></p>
+          {% if p.lang == "de" %}{% assign flag_code = "de" %}{% assign flag_text = "Deutsch" %}
+          {% elsif p.lang == "en" %}{% assign flag_code = "gb" %}{% assign flag_text = "English" %}
+          {% else %}{% assign flag_code = p.lang %}{% assign flag_text = p.lang %}
+          {% endif %}
+          <p class="lang-switch"><a href="{{ p.url }}"><img class="lang-flag" src="{{ '/images/flags/' | append: flag_code | append: '.svg' | relative_url }}" width="24" height="18" alt="{{ flag_text }}"> {{ flag_text }}</a></p>
           {% break %}
         {% endif %}
       {% endfor %}
