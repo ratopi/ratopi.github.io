@@ -21,7 +21,7 @@ permalink: /blog.html
 {% if post.draft != true and post.category == "blog" %}
 {% if skip_paths contains post.path %}{% continue %}{% endif %}
 
-### [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }}){% if post.lang_partner %} <span class="blog-bilingual" title="Available in multiple languages"><img src="{{ '/images/globe.svg' | relative_url }}" width="18" height="18" alt="multilingual"></span>{% endif %}
 
 {% if post.abstract %}{{ post.abstract }}{% endif %}
 
