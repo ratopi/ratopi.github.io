@@ -81,7 +81,7 @@ As long as we talk about "payback periods," solar remains an accounting exercise
 | Payback period            | **Energy freedom**                                           |
 | Feed-in tariff            | **Your house earns money**                                   |
 | Self-consumption ratio    | **Independence score**                                       |
-| Degradation               | *(just don't mention it)*                                    |
+| Degradation               | **Long-term stability** *(every technology ages — solar just ages very slowly)* |
 | Return on investment      | **Your roof works for you — every day, without you lifting a finger** |
 
 If Tesla can say "Ludicrous Mode," the solar industry can stop speaking in acronyms and percentages.

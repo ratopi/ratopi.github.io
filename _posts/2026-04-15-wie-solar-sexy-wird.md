@@ -81,7 +81,7 @@ Solange wir von „Amortisation" reden, bleibt Solar eine Buchhaltungsübung. Di
 | Amortisation              | **Energiefreiheit**                                         |
 | Einspeisevergütung        | **Dein Haus verdient Geld**                                 |
 | Eigenverbrauchsquote      | **Unabhängigkeitsgrad**                                     |
-| Degradation               | *(einfach weglassen)*                                       |
+| Degradation               | **Langzeitstabilität** *(jede Technik altert — Solar altert nur sehr langsam)* |
 | Rendite                   | **Dein Dach arbeitet für dich — jeden Tag, ohne dein Zutun** |
 
 Wenn Tesla „Ludicrous Mode" sagen kann, dann kann die Solarbranche aufhören, in Abkürzungen und Prozentzahlen zu sprechen.
