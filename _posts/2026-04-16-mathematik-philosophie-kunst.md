@@ -1,5 +1,5 @@
 ---
-title: "Mathematik, Philosophie, Kunst — Drei Sprachen für die Welt"
+title: "Mathematik, Philosophie, Kunst — Drei Seiten einer Medaille"
 layout: blog_post
 abstract: "Mathematik als reines formales Denken. Philosophie als Wechselwirkung des Denkens mit der Welt. Und Kunst als reines Sein — jenseits aller Begriffe. Über drei Formen der Welterkenntnis — und warum wir alle drei brauchen."
 author: Ralf Th. Pietsch

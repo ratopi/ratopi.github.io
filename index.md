@@ -3,6 +3,8 @@ layout: home
 title: Ralf Th. Pietsch
 description: developing software with passion
 selected:
+  - title: "Mathematik, Philosophie, Kunst — Drei Seiten einer Medaille"
+    url: /2026/mathematik-philosophie-kunst.html
   - title: "The Solar-SUV Contradiction"
     url: /2026/the-solar-suv-contradiction.html
   - title: "Wind and Solar Top the Charts — Germany's Power Mix in 2025"
