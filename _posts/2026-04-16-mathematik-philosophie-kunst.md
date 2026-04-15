@@ -25,7 +25,7 @@ Dieses Fragen hört nie auf.
 
 Manche Menschen formalisieren ihre Fragen in Gleichungen. Andere ringen mit Begriffen und Argumenten. Wieder andere greifen zu Farbe, Klang oder Bewegung — weil Worte nicht mehr reichen.
 
-Mathematik, Philosophie, Kunst. Drei Disziplinen, die auf den ersten Blick wenig miteinander zu tun haben. Und doch sind sie drei Weisen, in denen der Mensch sich zu seiner Existenz verhält: denkend, verstehend, seiend. Alle drei führen zu Erkenntnis.
+Mathematik, Philosophie, Kunst. Drei Disziplinen, die auf den ersten Blick wenig miteinander zu tun haben. Und doch sind sie drei Weisen, in denen der Mensch sich zu seiner Existenz verhält: denkend, beziehend, seiend. Alle drei führen zu Erkenntnis.
 
 
 ## Mathematik: Die Erforschung des Denkens selbst
@@ -45,7 +45,7 @@ Gödel hat gezeigt, dass selbst innerhalb dieser selbstgeschaffenen Welten Grenz
 > *„Jedes hinreichend mächtige, widerspruchsfreie formale System enthält Aussagen, die wahr sind, aber innerhalb des Systems nicht bewiesen werden können."*
 > — Kurt Gödel, Erster Unvollständigkeitssatz (1931), sinngemäß
 
-Oder einfacher gesagt: Kein Formalismus kann alles einfangen, was in ihm wahr ist. Die Mathematik ist nicht einmal in ihrem eigenen Reich vollständig. Und doch ist sie die reinste Form, in der der menschliche Geist sein eigenes Denken erforscht.
+Oder anders gesagt: Kein Formalismus kann alles einfangen, was in ihm wahr ist. Die Mathematik ist nicht einmal in ihrem eigenen Reich vollständig. Und doch ist sie die reinste Form, in der der menschliche Geist sein eigenes Denken erforscht.
 
 Wer Mathematik betreibt, sagt: *Ich kann Formalismen erschaffen. Ich kann entdecken, was in ihnen gilt. Ich kann Dinge beschreiben, die ich mir niemals vorstellen kann; Dinge, die ich nicht mehr begreifen kann.*
 
