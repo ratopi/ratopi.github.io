@@ -138,5 +138,5 @@ Und vielleicht ist Wittgensteins *Tractatus* selbst das beste Beispiel dafür, d
 
 Ein Philosoph, der ein ganzes Buch schreibt, um im letzten Satz festzustellen, dass man eigentlich hätte schweigen sollen — das entbehrt nicht eines gewissen Humors. Und genau darin liegt vielleicht die tiefste Einsicht: Dass der Versuch, das Unsagbare *nicht* zu sagen, selbst schon eine Form von Kunst ist. Der *Tractatus* — halb Formel, halb Bekenntnis, halb Schweigen — ist Mathematik, Philosophie und Kunst in einem.
 
-Drei Hälften. Auch das ist, streng genommen, unmöglich. Aber es ist der Fall.
+Drei Seiten einer Medaille. Unmöglich. Aber es ist der Fall.
 
