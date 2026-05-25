@@ -3,6 +3,8 @@ layout: home
 title: Ralf Th. Pietsch
 description: developing software with passion
 selected:
+  - title: "Die Null-Grenzkosten-Revolution — Warum es Wahnsinn ist, nicht auf Erneuerbare zu setzen"
+    url: /2026/die-null-grenzkosten-revolution.html
   - title: "Was Europa von der Schweiz lernen könnte — Konkordanz statt Konfrontation"
     url: /2026/schweizer-demokratie-fuer-europa.html
   - title: "Mathematik, Philosophie, Kunst — Drei Seiten einer Medaille"
